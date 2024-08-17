@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464078650149",
+    "project_id": "memory-890cf",
+    "storage_bucket": "memory-890cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464078650149:android:3c313029e8bff06c14b8cc",
+        "android_client_info": {
+          "package_name": "com.AlejandroGarzon.Memory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYLzNLXAx6b5Mhs-_JQqSZXCwLjr6FUZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
